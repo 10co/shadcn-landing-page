@@ -3,6 +3,8 @@
 A simple landing page starter template built with React 19, Vite 6, Tailwind CSS v4, and shadcn/ui.
 Designed for easy deployment on any platform, without dependency on Next.js.
 
+![](./public/og.jpg)
+
 ## Features
 
 - **React 19:** Leverage the latest features of React.
